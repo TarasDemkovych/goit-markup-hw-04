@@ -122,7 +122,10 @@ p {
 .section {
   padding: 120px 0;
 }
-.sec {
+.sec {width: 1440px;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office\ 1.jpg);
   padding: 188px 0;
   background-color: #2e2f42;
 }
