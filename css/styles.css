@@ -465,3 +465,15 @@ gap: 16px;
 .social-li{width: 40px;
 height: 40px;
 }
+.link-footer-icons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  border-radius: 50%;
+  background-color: #4d5ae5;
+  width: 40px;
+  height: 40px;
+}
+.link-footer-icons:hover,
+.link-footer-icons:focus{background-color: #31d0aa;;}
