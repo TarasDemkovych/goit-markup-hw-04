@@ -446,3 +446,22 @@ footer .span-logo {
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
+ .footer-container{display: flex;
+  align-items: baseline;
+} 
+.con-web-p{
+    margin-right: 120px;
+}
+.social-text{font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #ffffff;
+margin-bottom: 16px;
+}
+.social-item{display: flex;
+gap: 16px;
+}
+.social-li{width: 40px;
+height: 40px;
+}
